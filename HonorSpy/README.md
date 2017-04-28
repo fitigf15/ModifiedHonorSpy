@@ -1,6 +1,7 @@
 ### THIS IS A SLIGHTLY MODIFIED VERSION OF THE ADDON CALLED HONOR SPY, FROM KAKYSHA
-This version makes easier to see the "Last Seen" section of the players, also allows to fully copy/paste
-All the credit to Kakysha, original version can be found in: https://github.com/kakysha/HonorSpy
+This version makes easier to see the "Last Seen" section of the players, also it should allow more players in the HonorSpy exporting.
+
+All the credit goes to Kakysha, original version can be found in: https://github.com/kakysha/HonorSpy
 ### Install
 Download zip of 'master' branch (just click Clone or Download -> Download ZIP), unzip the archive, remove '-master' suffix from folder name and put it in Interface/Addons folder, relaunch WoW.
 
